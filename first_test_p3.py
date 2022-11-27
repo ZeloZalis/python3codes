@@ -15,7 +15,7 @@
 #print(a * 5) = 15
 #print(a - b) = 15
 #print(c + "Mundo") = 'Hola Mundo'
-#print(c * 2) = Error
+#print(c * 2) = 'Hola ' 'Hola '
 #print(d[-1]) = [3]
 #print(d[1:]) = [2, 3]
 #print(d + d) = [1, 2, 3] [1, 2, 3]
